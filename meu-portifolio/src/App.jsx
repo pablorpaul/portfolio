@@ -9,11 +9,11 @@ const DATA = {
     location: "Joinville, SC - Brasil",
     email: "pablo.r.paul@gmail.com",
     about: "Eu sou o Pablo, Desenvolvedor Full-Stack no início da carreira, no momento focado na criação de aplicações web modernas, escaláveis e performáticas. Atualmente cursando a faculdade e desenvolvendo projetos práticos com ecossistema JavaScript/TypeScript (React, Node.js) e bancos de dados relacionais e não-relacionais.",
-    avatar: "/foto_perfil.png",
+    avatar: "https://github.com/pablorpaul.png",
     links: {
       github: "https://github.com/pablorpaul",
       linkedin: "https://linkedin.com/in/seulinkedin",
-      resume: "/curriculo.pdf"
+      resume: "./curriculo.pdf"
     }
   },
   skills: [
